@@ -37,7 +37,7 @@ The **Student Attendance Tracker and Viewer** is a web-based system designed to 
 ![Alt text](https://github.com/DhanyashreeKrishnamurthy/Auxia_Hackathon/blob/main/er%20diagram.jpg)
 
 ## MVC DESIGN PATTERN
-<img width="502" height="357" alt="image" src="https://github.com/user-attachments/assets/3079b5b7-d716-4457-a9f1-0e5eb7e6dd13" />
+![Alt text](https://github.com/DhanyashreeKrishnamurthy/Auxia_Hackathon/blob/main/mvc2.png)
 ## Tech Stack
 - **Frontend**: React.js, Redux, Tailwind CSS (Responsive UI, State Management, Styling)
 - **Backend**: Node.js with Express.js, FastAPI (High-Performance API Services)
