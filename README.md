@@ -44,7 +44,7 @@ The **Student Attendance Tracker and Viewer** is a web-based system designed to 
 - **Verification**: QR Code Generation, Geofencing (GPS Location Validation), WiFi Authentication
 
 ---
-##DFD LEVEL 2
+## DFD LEVEL 2
 ![Alt text](https://github.com/DhanyashreeKrishnamurthy/Auxia_Hackathon/blob/main/data%20flow%20diagram.png)
 
 ## System Flow
