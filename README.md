@@ -1,4 +1,4 @@
-<img width="502" height="357" alt="image" src="https://github.com/user-attachments/assets/d3fa06da-3e4c-4cd5-a72d-64a39f4d3112" /># Auxia_Hackathon
+# Auxia_Hackathon
 # VISION MARK: QR CODE AND CAMERA INTEGRATION FOR ATTENDANCE MANAGEMENT
 
 ## Project Overview
