@@ -47,6 +47,9 @@ The **Student Attendance Tracker and Viewer** is a web-based system designed to 
 
 ---
 ## DFD LEVEL 2
+## ARCHITECTURE DIAGRAM
+
+![Alt text](https://github.com/DhanyashreeKrishnamurthy/Auxia_Hackathon/blob/main/architecture%20diagram.png)
 ![Alt text](https://github.com/DhanyashreeKrishnamurthy/Auxia_Hackathon/blob/main/data%20flow%20diagram.png)
 
 ## System Flow
