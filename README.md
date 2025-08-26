@@ -4,6 +4,24 @@
 ## Project Overview
 The **Student Attendance Tracker and Viewer** is a web-based system designed to automate attendance management in educational institutions. It replaces manual roll calls with a secure, real-time, and fraud-proof solution. The system uses innovative features like QR codes, geofencing, and WiFi authentication to ensure accurate and fraud-free attendance marking.
 
+## Problems Addressed
+
+### Teacher's Perspective:
+- **Time Consuming**: Traditional attendance and class management is manual and slow.
+- **Error-Prone Attendance**: Manual recording of attendance is prone to mistakes.
+- **Easily Manipulated**: Manual attendance can be altered or manipulated.
+- **Inefficient**: Lack of automation in tracking and managing class resources.
+- **Resource Uploads**: Teachers can easily upload resources for students.
+- **Attendance Dashboards**: A centralized dashboard to track student attendance and progress in real-time.
+
+### Student's Perspective:
+- **Real-Time Updates**: Students can access attendance and progress data instantly.
+- **Transparency**: Full visibility into their attendance and performance.
+- **Resource Access**: Easy access to learning materials uploaded by teachers.
+- **Chatbot**: Provides quick assistance and answers for students.
+- **Class Skip Information**: Students can track how many classes they can skip based on their attendance.
+- **No Surprises**: Transparent system where students are aware of their standing at all times.
+
 ---
 
 ## Features
