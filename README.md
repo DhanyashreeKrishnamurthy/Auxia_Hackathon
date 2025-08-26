@@ -1,5 +1,5 @@
 # Auxia_Hackathon
-# Student Attendance Tracker and Viewer
+# VISION MARK: QR CODE AND CAMERA INTEGRATION FOR ATTENDANCE MANAGEMENT
 
 ## Project Overview
 The **Student Attendance Tracker and Viewer** is a web-based system designed to automate attendance management in educational institutions. It replaces manual roll calls with a secure, real-time, and fraud-proof solution. The system uses innovative features like QR codes, geofencing, and WiFi authentication to ensure accurate and fraud-free attendance marking.
