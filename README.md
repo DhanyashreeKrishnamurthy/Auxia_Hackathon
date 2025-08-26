@@ -16,7 +16,7 @@ The **Student Attendance Tracker and Viewer** is a web-based system designed to 
 
 ---
 ## ER Diagram
-![Alt text]https://github.com/DhanyashreeKrishnamurthy/Auxia_Hackathon/blob/main/er%20diagram.jpg
+![Alt text](https://github.com/DhanyashreeKrishnamurthy/Auxia_Hackathon/blob/main/er%20diagram.jpg)
 
 ## Tech Stack
 - **Frontend**: React.js, Redux, Tailwind CSS (Responsive UI, State Management, Styling)
